@@ -1,0 +1,91 @@
+.ws--xl {
+	padding-top: 180px;
+	padding-bottom: 180px;
+	
+	@media all and (max-width: $small-bp) {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+}
+
+.ws--lg {
+	padding-top: 160px;
+	padding-bottom: 160px;
+	
+	@media all and (max-width: $small-bp) {
+		padding-top: 90px;
+		padding-bottom: 90px;
+	}
+}
+
+.ws--md {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	
+	@media all and (max-width: $small-bp) {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+}
+
+.ws--sm {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	
+	@media all and (max-width: $small-bp) {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+}
+
+.ws--xs {
+	padding-top: 15px;
+	padding-bottom: 15px;	
+}
+
+
+.reset-padding {
+	padding: 0;
+}
+
+.reset-margin {
+	margin: 0;
+}
+
+.reset-padding--top {
+	padding-top: 0;
+}
+
+.reset-padding--right {
+	padding-right: 0;
+}
+
+.reset-padding--bottom {
+	padding-bottom: 0;
+}
+
+.reset-padding--left {
+	padding-left: 0;
+}
+
+.reset-margin--top {
+	margin-top: 0;
+}
+
+.reset-margin--right {
+	margin-right: 0;
+}
+
+.reset-margin--bottom {
+	margin-bottom: 0;
+}
+
+.reset-margin--left {
+	margin-left: 0;
+}
+
+.clear-ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}

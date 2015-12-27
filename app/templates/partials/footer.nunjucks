@@ -1,0 +1,21 @@
+<a name="contact"></a>
+<footer class="contextual-bg--secondary">
+	<div class="row ws--md">
+		<div class="columns medium-6">
+			<h2 class="invert">Contact Information</h2>
+
+			  <!-- Loops through "cv items" array -->
+			  {% for item in contact %}
+				  <div class="row ws--xs reset-padding--bottom">
+				  	<div class="columns small-3">
+				  		<p class="invert reset-margin">{{item.term}}</p>
+				  	</div>
+				  	<div class="columns small-9">
+				  		<p class="invert reset-margin">{{item.detail}}</p>
+				  	</div>
+				  </div>
+			  {% endfor %}
+
+		</div>
+	</div>
+</footer>

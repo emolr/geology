@@ -1,0 +1,22 @@
+<!-- index.nunjucks -->
+{% extends "layout.nunjucks" %}
+
+{% block content %} 
+
+
+	{% include "partials/navigation.nunjucks" %}
+
+	{% include "partials/hero.nunjucks" %}
+
+	{% include "partials/about.nunjucks" %}
+
+	{% include "partials/volunteerwork.nunjucks" %}
+
+	{% include "partials/publication.nunjucks" %}
+	
+	{% include "partials/cv.nunjucks" %}
+
+	{% include "partials/footer.nunjucks" %}
+
+
+{% endblock %}

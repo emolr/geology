@@ -1,0 +1,19 @@
+<!-- Hero -->
+
+<div class="ws--xl contextual-bg--hero">
+	<div class="row">
+		<div class="columns medium-12 large-8">
+			<div class="h5 alternative ws--xs reset-padding--top">{{hero.introtext}}</div>
+			<h1 class="reset-margin--top">
+				{{hero.introtitle}}
+			</h1>
+			<div class="ws--sm">
+				<span>
+					<a href="#contact" class="button primary hide-for-large">contact me</a>
+					&nbsp;&nbsp;&nbsp;
+				</span>
+				<a href="#about" class="fs-lg hide-for-small-only hide-for-medium-only">{{hero.introlink}}</a>
+			</div>
+		</div>
+	</div>
+</div>

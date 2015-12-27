@@ -1,0 +1,23 @@
+// Button
+$button-primary-bg-color: #000 !default;
+$button-primary-color: #fff !default;
+
+.button {
+	@include button-base;
+	text-transform: uppercase;
+	
+	&.primary {
+		color: $button-primary-color;
+		background: $button-primary-bg-color;
+		border-radius: 4px;
+		padding: 15px 25px;
+		transition: all .1s;
+		font-weight: 600;
+		
+		&:hover {
+			background: darken($button-primary-bg-color, 5%);
+			color: #FFF;
+			text-decoration: none;
+		}
+	}
+}

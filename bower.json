@@ -1,0 +1,20 @@
+{
+  "name": "geology",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "modernizr": "~2.8.1"
+  },
+  "overrides": {
+    "bootstrap-sass": {
+      "main": []
+    }
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4",
+    "foundation-sites": "~6.1.1",
+    "_normalize.scss": "~2.1.3",
+    "photoswipe": "~4.1.1"
+  }
+}
