@@ -10,27 +10,27 @@
 
     var dinosaurProvincialPark = [
         {
-            src: '../images/canada/1.jpeg',
+            src: './images/canada/1.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/canada/2.jpeg',
+            src: './images/canada/2.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/canada/3.jpeg',
+            src: './images/canada/3.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/canada/4.jpeg',
+            src: './images/canada/4.jpeg',
             w: 750,
             h: 1000
         },
         {
-            src: '../images/canada/5.jpeg',
+            src: './images/canada/5.jpeg',
             w: 1333,
             h: 1000
         }
@@ -38,27 +38,27 @@
 
     var gns = [
         {
-            src: '../images/newzealand/1.jpeg',
+            src: './images/newzealand/1.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/newzealand/2.jpeg',
+            src: './images/newzealand/2.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/newzealand/3.jpeg',
+            src: './images/newzealand/3.jpeg',
             w: 750,
             h: 1000
         },
         {
-            src: '../images/newzealand/4.jpeg',
+            src: './images/newzealand/4.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/newzealand/5.jpeg',
+            src: './images/newzealand/5.jpeg',
             w: 750,
             h: 1000
         }
@@ -66,27 +66,27 @@
 
     var newMexico = [
         {
-            src: '../images/usa/1.jpeg',
+            src: './images/usa/1.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/usa/2.jpeg',
+            src: './images/usa/2.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/usa/3.jpeg',
+            src: './images/usa/3.jpeg',
             w: 750,
             h: 1000
         },
         {
-            src: '../images/usa/4.jpeg',
+            src: './images/usa/4.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/usa/5.jpeg',
+            src: './images/usa/5.jpeg',
             w: 1333,
             h: 1000
         }
@@ -94,27 +94,27 @@
 
     var museu = [
         {
-            src: '../images/portugal/1.jpeg',
+            src: './images/portugal/1.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/portugal/2.jpeg',
+            src: './images/portugal/2.jpeg',
             w: 1476,
             h: 1000
         },
         {
-            src: '../images/portugal/3.jpeg',
+            src: './images/portugal/3.jpeg',
             w: 1476,
             h: 1000
         },
         {
-            src: '../images/portugal/4.jpeg',
+            src: './images/portugal/4.jpeg',
             w: 1333,
             h: 1000
         },
         {
-            src: '../images/portugal/5.jpeg',
+            src: './images/portugal/5.jpeg',
             w: 1476,
             h: 1000
         }
