@@ -176,6 +176,11 @@ gulp.task('wiredep', () => {
     .pipe(gulp.dest('app'));
 });
 
+gulp.task('copy', () => {
+  gulp.src(['app/styles/photoswipe/**/*'])
+  .pipe(gulp.dest('dist/styles/photoswipe/'));
+});
+
 gulp.task('build', ['nunjucks', 'html', 'images', 'fonts', 'extras'], () => {
   return gulp.src('dist/**/*').pipe($.size({title: 'build', gzip: true}));
 });
