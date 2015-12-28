@@ -181,7 +181,7 @@ gulp.task('copy', () => {
   .pipe(gulp.dest('dist/styles/photoswipe/'));
 });
 
-gulp.task('build', ['nunjucks', 'html', 'images', 'fonts', 'extras'], () => {
+gulp.task('build', ['nunjucks', 'html', 'images', 'fonts', 'extras', 'copy'], () => {
   return gulp.src('dist/**/*').pipe($.size({title: 'build', gzip: true}));
 });
 

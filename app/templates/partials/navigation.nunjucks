@@ -4,7 +4,7 @@
 		  <div class="top-bar-left">
 		    <ul class="menu reset-padding--left">
 		      <!-- <li class="menu-text">Site Title</li> -->
-		      <li><a href="#about">ABOUT ME</a></li>
+		      <li><a href="#about" class="reset-padding--left">ABOUT ME</a></li>
 		      <li><a href="#cv">CURRICULUM VITAE</a></li>
 		      <li><a href="#volunteer">VOLUNTEER WORK</a></li>
 		      <li><a href="#contact">CONTACT</a></li>
@@ -12,7 +12,7 @@
 		  </div>
 		  <div class="top-bar-right">
 		    <ul class="menu">
-		      <li><a href="#contact" class="button primary hide-for-small-only hide-for-medium-only">contact me</a></li>
+		      <li><a href="#contact" class="button primary hollow hide-for-small-only hide-for-medium-only">Have a job available?</a></li>
 		    </ul>
 		  </div>
 	  </div>

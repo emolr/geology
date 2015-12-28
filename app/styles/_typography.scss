@@ -157,5 +157,7 @@ a,
 	width: 100%;
 	max-width: 100px;
 	margin: 40px auto;
-	color: $divider-color;
+	border-color: $divider-color;
+	border-bottom-width: 0;
+	border-style: solid;
 }

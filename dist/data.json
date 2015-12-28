@@ -101,7 +101,7 @@
 		"linktext": "Read on ResearchGate"
 	},
 	"cvsection": {
-		"title": "Curriculum vitae",
+		"title": "Curriculum Vitae",
 		"subtitle": "Feel free to contact me for more details"
 	},
 	"cvsmain": [{
@@ -148,7 +148,7 @@
 	}],
 	"cvsachievements": [{
 		"dates": "01-09-2009 – 11-12-2015",
-		"title": "<b>Active member of Steno,</b><br>student society of Geology, University of Copenhagen",
+		"title": "<b>Active member of Steno,</b><br>Student society of Geology, University of Copenhagen",
 		"extra": ""
 	},
 	{
@@ -170,6 +170,6 @@
 	},
 	{
 		"term": "&nbsp;",
-		"detail": "links"
+		"detail": ""
 	}]
 }
